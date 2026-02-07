@@ -1,0 +1,7 @@
+{
+  "name": "OmniPDF AI",
+  "description": "An AI-powered document architect that converts files to professional PDFs, enhances content using Gemini, and integrates with cloud storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
